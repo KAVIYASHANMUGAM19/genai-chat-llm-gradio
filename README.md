@@ -19,7 +19,7 @@ A text box for user input.
 A chat history display.
 A clear button to reset the conversation. 
 
-Step 4: Deploy and Test
+## Step 4: Deploy and Test
 Host the Gradio app locally or on a server.
 Test with diverse inputs to ensure robust performance.
 
