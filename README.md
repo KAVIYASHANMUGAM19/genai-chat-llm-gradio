@@ -7,7 +7,7 @@ To design and deploy a "Chat with LLM" application by leveraging the Gradio Bloc
 Develop a user-friendly chatbot application using a large language model (LLM) to assist users with queries and generate conversational responses. The application should feature a responsive design, real-time text exchange, and customizable settings for response quality.
 ## DESIGN STEPS:
 
-## STEP 1:Set Up the Environment
+## STEP 1: Set Up the Environment
 Install the necessary libraries (openai, gradio) and verify API access to the LLM.
 
 ## STEP 2: Create the Chat Functionality
